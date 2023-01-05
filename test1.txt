@@ -1,2 +1,6 @@
 I born in 1990 march 12
 I have done my SSC in 2016
+
+text 1
+text 2
+text 3
